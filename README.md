@@ -2,8 +2,6 @@
 
 If u already start a bit, u can just copy what u need.
 
-If u are in mental hell, you can do the following:
-
 Get into ur course folder to clone my repo.
 
 After u clone it, get into web -- `cd web`, then `npm install`.
